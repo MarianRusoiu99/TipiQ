@@ -9,7 +9,7 @@ export default function NotFound() {
         The page you're looking for doesn't exist or has been removed.
       </p>
       <Button asChild className="mt-4">
-        <Link href="/">Go Home</Link>
+        <Link href="/">Go Home </Link>
       </Button>
     </div>
   )
