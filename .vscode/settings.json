@@ -1,0 +1,5 @@
+{
+    "github.copilot.chat.completionContext.typescript.mode": "sidecar",
+    "github.copilot.chat.search.semanticTextResults": true,
+    "github.copilot.chat.temporalContext.enabled": true
+}
